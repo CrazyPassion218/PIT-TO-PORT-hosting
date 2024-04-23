@@ -1,2 +1,0 @@
-html{font-family:Inter,sans-serif}@supports (font-variation-settings:normal){html{font-family:Inter var,sans-serif}}*{box-sizing:border-box}#main,#root,body,html{height:100%;margin:0;overflow:hidden;padding:0;-webkit-user-select:none;user-select:none;width:100%}body{background:#f0f0f0;font-family:Inter,sans-serif}@keyframes fade-in{0%{opacity:0}to{opacity:1}}canvas{animation:fade-in 1s ease .3s forwards;opacity:0;touch-action:none}.logoImage{margin-bottom:125px}
-/*# sourceMappingURL=main.1639a7a5.css.map*/
